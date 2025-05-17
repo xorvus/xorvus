@@ -53,5 +53,5 @@
 <br/>
 
 <a href='https://ko-fi.com/M4M11F112J' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-### Profile views counter 👁️‍🗨️
+### Profile views counter
 <a href="https://u8views.com/github/xorvus"><img src="https://u8views.com/api/v1/github/profiles/91242949/views/day-week-month-total-count.svg"></a>
